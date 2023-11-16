@@ -4,7 +4,7 @@ The script is for crawling reddit hot post in the subreddit 'TIFU'.
 The script uses a python package 'praw' to easily interact with Reddit APIs.\
 To install praw, use ```pip install praw```
 
-Other python packages that is used: csv, datetime, argparse.\
+Other python packages that are used: csv, datetime, argparse.\
 For reference, I used Python 3.10.9 to execute the script.
 ## Execution
 You can use the following command to execute the script: \
